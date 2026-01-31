@@ -12,7 +12,7 @@ An electronic hot and cold compression device designed to provide safe, instant,
 CryoThermX is an electronic hot and cold compression device developed to address the inconvenience, inefficiency, and safety risks of conventional thermal therapy methods such as ice packs and hot water bags.
 The device enables instant switching, precise temperature control, and safe household use, making thermal therapy more accessible and reliable.
 
-##❓ Problem Statement
+## ❓ Problem Statement
 ---
 
 Traditional hot and cold compression methods:
@@ -26,7 +26,7 @@ Cool down or heat up rapidly
 Pose risks of burns or frostbite
 As a result, users often avoid thermal therapy even when medically beneficial.
 
-##💡 Proposed Solution
+## 💡 Proposed Solution
 ---
 
 An automated, handheld hot and cold compression device powered by household AC supply, capable of:
@@ -128,7 +128,8 @@ Clinical validation and compliance assessment
 ---
 
 Team CryoThermX / PulseTronic
-Undergraduate Engineering Project – Biomedical Electronics
+Undergraduate Engineering Project – Biomedical Engineering
+<img width="1342" height="701" alt="image" src="https://github.com/user-attachments/assets/c41306f6-683d-4f51-9864-0f735815f5c2" />
 
-<img width="1342" height="701" alt="image" src="https://github.com/user-attachments/assets/d0a6f672-3b47-44dd-94aa-1817b4509ef5" />
+
 
