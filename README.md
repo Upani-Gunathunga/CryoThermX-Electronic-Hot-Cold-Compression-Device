@@ -3,6 +3,8 @@ An electronic hot and cold compression device designed to provide safe, instant,
 
 🔥 CryoThermX – Electronic Hot & Cold Compression Device
 <img width="1181" height="510" alt="image" src="https://github.com/user-attachments/assets/c581fbb3-6f26-425c-b25e-06fc647ee595" />
+![Uploading image.png…]()
+
 
 
 
@@ -41,7 +43,7 @@ Ergonomic skin contact through a biomedical-grade enclosure
 
 ## ⚙️ Key Features
 ---
-<img width="1187" height="583" alt="image" src="https://github.com/user-attachments/assets/d1e4b2e9-0718-4a01-8810-a622ac398e65" />
+
 
 
 Hot and cold compression modes (mutually exclusive)
